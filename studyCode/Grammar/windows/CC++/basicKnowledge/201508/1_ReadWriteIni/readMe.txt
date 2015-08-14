@@ -1,0 +1,1 @@
+学习使用WritePrivateProfileString等函数对ini的配置文件进行读写操作
